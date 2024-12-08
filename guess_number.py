@@ -14,3 +14,4 @@ while True:
         break
 
 print('Отличная интуиция! Вы угадали число :)')
+# Just for test
